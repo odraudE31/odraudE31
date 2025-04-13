@@ -1,10 +1,10 @@
-<h2 align="left">Hey there 👋🏻! I'm Eduardo Gonzalez Silva,</h2>
+<h1 align="left">Hey there 👋🏻! I'm Eduardo Gonzalez Silva,</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">I'm a student of Computer Engeneering Student @ POLI-USP</h3>
+<h3 align="left">I'm a student of Computer Engineering at POLI-USP. I'm a member of <a href="https://github.com/Skyrats" target="_blank">@Skyrats</a>, where I passionately work on automating drones! I also spend my free time working on other projects.</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 <h2 align="left">🥱 How much I've been working:</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odraudE31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=odraudE31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odraudE31&exclude_repo=AE_398_Azul_Project&count_private=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
