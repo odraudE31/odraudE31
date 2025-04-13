@@ -1,38 +1,27 @@
 #
 
-<h2 align="left">Eduardo Gonzalez Silva.</h2>
+<h2 align="left">Hey there! I'm Eduardo Gonzalez Silva,</h2>
 
 #
+
+<br clear="both">
+
+<h3 align="left">I'm a student of Computer Engeneering Student @ POLI-USP</h3>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">Computer Engeneering Student @ POLI-USP</h3>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge" height="40" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-</div>
-
-###
 <h2 align="left">📫 How to reach me:</h2>
 
 <div align="left">
-    <a href = "mailto:eduardogs313064@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:eduardogs313064@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"></a>
     <a href = "https://www.linkedin.com/in/eduardo-g-s/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">🥱 How much I've been working:</h2>
 
@@ -45,7 +34,7 @@
 
 <h4 align="left">🔤 Languages:</h4>
 
-###
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -60,9 +49,9 @@
 
 ###
 
-<h4 align="left">🤖 Robotics Tools:</h4>
+<br clear="both">
 
-###
+<h4 align="left">🤖 Robotics Tools:</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
@@ -76,6 +65,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">👀 Check out some of my public repos to see what I've been working on!</h2>
 
