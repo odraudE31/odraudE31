@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<h4 align="left">🔤 Languages:</h4>
+<h2 align="left">🔤 Languages:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<h4 align="left">🤖 Robotics Tools:</h4>
+<h2 align="left">🤖 Robotics Tools:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
