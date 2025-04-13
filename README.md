@@ -32,9 +32,9 @@
 
 ###
 
-<h4 align="left">🔤 Languages:</h4>
-
 <br clear="both">
+
+<h4 align="left">🔤 Languages:</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
